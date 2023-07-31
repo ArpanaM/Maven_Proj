@@ -1,0 +1,4 @@
+TestScenarios\MouseHover.class
+TestScenarios\App.class
+TestScenarios\SwitchingWindows.class
+TestScenarios\DynDataHandling.class

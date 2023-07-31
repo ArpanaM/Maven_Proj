@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-27T04:26:29 IST" name="Suite" finished-at="2023-07-27T04:27:22 IST" duration-ms="53592">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T04:26:29 IST" name="Test" finished-at="2023-07-27T04:27:22 IST" duration-ms="53592">
+      <class name="TestScenarios.MouseHover">
+        <test-method signature="dragAndDrop()[pri:0, instance:TestScenarios.MouseHover@36c88a32]" started-at="2023-07-27T04:26:42 IST" name="dragAndDrop" finished-at="2023-07-27T04:26:53 IST" duration-ms="10547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+      </class> <!-- TestScenarios.MouseHover -->
+      <class name="TestScenarios.DynDataHandling">
+        <test-method signature="capthaHandling()[pri:0, instance:TestScenarios.DynDataHandling@7f552bd3]" started-at="2023-07-27T04:26:29 IST" name="capthaHandling" finished-at="2023-07-27T04:26:42 IST" duration-ms="13552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capthaHandling -->
+      </class> <!-- TestScenarios.DynDataHandling -->
+      <class name="TestScenarios.SwitchingWindows">
+        <test-method signature="switchWin()[pri:0, instance:TestScenarios.SwitchingWindows@7880cdf3]" started-at="2023-07-27T04:26:53 IST" name="switchWin" finished-at="2023-07-27T04:27:22 IST" duration-ms="29369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- TestScenarios.SwitchingWindows -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
